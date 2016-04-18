@@ -1,0 +1,94 @@
+GLORTEN'S DUNGEON SOURCE CODE
+------------------------------------------------------------------------------
+
+Glorten's Dungeon source code, included under the following folders:
+
+/Assets/Scripts/BossFight
+/Assets/Scripts/Enemy
+/Assets/Scripts/Misc
+/Assets/Scripts/Player
+/Assets/Scripts/TwinspriteSDK
+/Assets/Scripts/UI
+
+is free software, you can redistribute it and/or modify it under the terms
+of the MIT License.
+
+MIT License (MIT)
+
+Copyright (c) 2016 Twinsprite
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+GOKIT
+------------------------------------------------------------------------------
+
+Glorten's Dungeon project includes the GoKit plugin under the 
+/Assets/Plugins/GoKit that has its own license available in 
+the project page https://github.com/prime31/GoKit and included bellow.
+
+For any developers just wanting to use GoKit in their games go right ahead. 
+You can use GoKit in any and all games either modified or unmodified. In order 
+to keep the spirit of this open source project it is expressly forbid to sell 
+or commercially distribute GoKit outside of your games. You can freely use it 
+in as many games as you would like but you cannot commercially distribute the 
+source code either directly or compiled into a library outside of your game.
+
+Feel free to include a "prime31 inside" logo on your about page, web page, 
+splash page or anywhere else your game might show up if you would like.
+small or larger or huge.
+
+CN CONTROLS
+------------------------------------------------------------------------------
+
+Glorten's Dungeon project includes the CN Controls Mobile Joystick and 
+Touchpad Components, created by Cyrill Nadezhdin and available under the MIT
+license.
+
+GLORTEN'S DUNGEON ASSETS
+------------------------------------------------------------------------------
+
+Glorten's Dungeon 3D models, animatios and textures under the following
+folders: 
+
+/Assets/Animations
+/Assets/Models
+/Assets/Particles
+/Assets/Prefabs
+/Assets/Resources
+/Assets/Scenes
+/Assets/UI/Animations
+/Assets/UI/BossFight
+/Assets/UI/Textures
+
+excluding logos and the fonts and texts included in the images are 
+available under the CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+license.
+
+GLORTEN'S DUNGEON FX and MUSIC
+------------------------------------------------------------------------------
+
+Boss fight ambient music has been composed by Albert "hellmer" Gallego 
+(https://soundcloud.com/hell_mer) and is available under CC BY-ND 4.0 
+(http://creativecommons.org/licenses/by-nd/4.0/)
+
+ALMENDRA FONT
+------------------------------------------------------------------------------
+The Almendra font .ttf files included in the /Assets/Fonts folder are avilable
+under the SIL OPEN FONT LICENSE Version 1.1 included in the 
+/Assets/Fonts/OFL.txt file.

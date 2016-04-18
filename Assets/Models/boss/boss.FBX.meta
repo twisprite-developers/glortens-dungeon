@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 23d9d935d4c11b24aa8efbc7579744b8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: B_antebrazo_d
+    100002: B_antebrazo_i
+    100004: B_brazo_d
+    100006: B_brazo_i
+    100008: b_cabeza
+    100010: b_cuello
+    100012: B_dedo1_d
+    100014: B_dedo1_i
+    100016: B_dedo2_i
+    100018: B_dedo2_i001
+    100020: B_dedogordo1_d
+    100022: B_dedogordo1_i
+    100024: B_dedogordo2_d
+    100026: B_dedogordo2_i
+    100028: B_dedos1_i
+    100030: B_dedos1_i001
+    100032: B_dedos2_i
+    100034: B_dedos2_i001
+    100036: B_mano_d
+    100038: B_mano_i
+    100040: B_muslo_I
+    100042: B_muslo_I001
+    100044: b_pecho
+    100046: B_pie_I
+    100048: B_pie_I001
+    100050: B_pierna_I
+    100052: B_pierna_I001
+    100054: b_tripa
+    100056: boss
+    100058: //RootNode
+    100060: Box003
+    100062: Box004
+    100064: ctrl_grl
+    100066: Cylinder002
+    100068: hombrera
+    100070: P_cadera
+    100072: p_guada__a
+    400000: B_antebrazo_d
+    400002: B_antebrazo_i
+    400004: B_brazo_d
+    400006: B_brazo_i
+    400008: b_cabeza
+    400010: b_cuello
+    400012: B_dedo1_d
+    400014: B_dedo1_i
+    400016: B_dedo2_i
+    400018: B_dedo2_i001
+    400020: B_dedogordo1_d
+    400022: B_dedogordo1_i
+    400024: B_dedogordo2_d
+    400026: B_dedogordo2_i
+    400028: B_dedos1_i
+    400030: B_dedos1_i001
+    400032: B_dedos2_i
+    400034: B_dedos2_i001
+    400036: B_mano_d
+    400038: B_mano_i
+    400040: B_muslo_I
+    400042: B_muslo_I001
+    400044: b_pecho
+    400046: B_pie_I
+    400048: B_pie_I001
+    400050: B_pierna_I
+    400052: B_pierna_I001
+    400054: b_tripa
+    400056: //RootNode
+    400058: boss
+    400060: Box003
+    400062: Box004
+    400064: ctrl_grl
+    400066: Cylinder002
+    400068: hombrera
+    400070: P_cadera
+    400072: p_guada__a
+    2300000: Box003
+    2300002: Box004
+    2300004: Cylinder002
+    2300006: hombrera
+    3300000: Box003
+    3300002: Box004
+    3300004: Cylinder002
+    3300006: hombrera
+    4300000: boss
+    4300002: Cylinder002
+    4300004: Box003
+    4300006: Box004
+    4300008: hombrera
+    7400000: walk
+    7400002: stop walk & idle
+    7400004: idle
+    7400006: ready to fight pose
+    7400008: Idle_Bossfight
+    7400010: attack 1
+    7400012: attack 2
+    7400014: attack 3 (2 hits)
+    7400016: hit2
+    7400018: death
+    7400020: hit
+    9500000: //RootNode
+    13700000: boss
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss
+        weight: 1
+      - path: ctrl_grl
+        weight: 1
+      - path: ctrl_grl/P_cadera
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I/B_pie_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001/B_pie_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d/B_dedo2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d/B_dedogordo2_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001/B_dedos2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003/Box004
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/hombrera
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i/B_dedo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i/B_dedogordo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i/B_dedos2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello/b_cabeza
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 58
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss
+        weight: 1
+      - path: ctrl_grl
+        weight: 1
+      - path: ctrl_grl/P_cadera
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I/B_pie_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001/B_pie_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d/B_dedo2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d/B_dedogordo2_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001/B_dedos2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003/Box004
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/hombrera
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i/B_dedo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i/B_dedogordo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i/B_dedos2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello/b_cabeza
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ready to fight pose
+      takeName: Take 001
+      firstFrame: 98
+      lastFrame: 258
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss
+        weight: 1
+      - path: ctrl_grl
+        weight: 1
+      - path: ctrl_grl/P_cadera
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I/B_pie_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001/B_pie_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d/B_dedo2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d/B_dedogordo2_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001/B_dedos2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003/Box004
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/hombrera
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i/B_dedo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i/B_dedogordo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i/B_dedos2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello/b_cabeza
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle_Bossfight
+      takeName: Take 001
+      firstFrame: 230
+      lastFrame: 258
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss
+        weight: 1
+      - path: ctrl_grl
+        weight: 1
+      - path: ctrl_grl/P_cadera
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I/B_pie_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001/B_pie_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d/B_dedo2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d/B_dedogordo2_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001/B_dedos2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003/Box004
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/hombrera
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i/B_dedo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i/B_dedogordo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i/B_dedos2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello/b_cabeza
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack 1
+      takeName: Take 001
+      firstFrame: 260
+      lastFrame: 285
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss
+        weight: 1
+      - path: ctrl_grl
+        weight: 1
+      - path: ctrl_grl/P_cadera
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I/B_pie_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001/B_pie_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d/B_dedo2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d/B_dedogordo2_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001/B_dedos2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003/Box004
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/hombrera
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i/B_dedo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i/B_dedogordo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i/B_dedos2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello/b_cabeza
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack 2
+      takeName: Take 001
+      firstFrame: 314
+      lastFrame: 348
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss
+        weight: 1
+      - path: ctrl_grl
+        weight: 1
+      - path: ctrl_grl/P_cadera
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I/B_pie_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001/B_pie_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d/B_dedo2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d/B_dedogordo2_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001/B_dedos2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003/Box004
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/hombrera
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i/B_dedo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i/B_dedogordo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i/B_dedos2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello/b_cabeza
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: attack 3 (2 hits)
+      takeName: Take 001
+      firstFrame: 286
+      lastFrame: 348
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss
+        weight: 1
+      - path: ctrl_grl
+        weight: 1
+      - path: ctrl_grl/P_cadera
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I/B_pie_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001/B_pie_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d/B_dedo2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d/B_dedogordo2_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001/B_dedos2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003/Box004
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/hombrera
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i/B_dedo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i/B_dedogordo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i/B_dedos2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello/b_cabeza
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hit2
+      takeName: Take 001
+      firstFrame: 350
+      lastFrame: 461
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss
+        weight: 1
+      - path: ctrl_grl
+        weight: 1
+      - path: ctrl_grl/P_cadera
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I/B_pie_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001/B_pie_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d/B_dedo2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d/B_dedogordo2_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001/B_dedos2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003/Box004
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/hombrera
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i/B_dedo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i/B_dedogordo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i/B_dedos2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello/b_cabeza
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 463
+      lastFrame: 650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss
+        weight: 1
+      - path: ctrl_grl
+        weight: 1
+      - path: ctrl_grl/P_cadera
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I/B_pie_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001/B_pie_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d/B_dedo2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d/B_dedogordo2_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001/B_dedos2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003/Box004
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/hombrera
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i/B_dedo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i/B_dedogordo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i/B_dedos2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello/b_cabeza
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: hit
+      takeName: Take 001
+      firstFrame: 350
+      lastFrame: 366
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boss
+        weight: 1
+      - path: ctrl_grl
+        weight: 1
+      - path: ctrl_grl/P_cadera
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I/B_pierna_I/B_pie_I
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/B_muslo_I001/B_pierna_I001/B_pie_I001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedo1_d/B_dedo2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedogordo1_d/B_dedogordo2_d
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/B_dedos1_i001/B_dedos2_i001
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/B_antebrazo_d/B_mano_d/p_guada__a/Cylinder002/Box003/Box004
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_d/hombrera
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedo1_i/B_dedo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedogordo1_i/B_dedogordo2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/B_brazo_i/B_antebrazo_i/B_mano_i/B_dedos1_i/B_dedos2_i
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello
+        weight: 1
+      - path: ctrl_grl/P_cadera/b_tripa/b_pecho/b_cuello/b_cabeza
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: ee67552137479264aa0fc2f98d5d6900
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: base
+    100002: //RootNode
+    100004: Cylinder002
+    100006: Cylinder006
+    100008: Cylinder007
+    100010: Cylinder008
+    100012: Cylinder009
+    100014: Cylinder010
+    100016: Cylinder011
+    100018: Cylinder012
+    100020: Cylinder013
+    100022: Cylinder014
+    100024: Cylinder015
+    100026: Cylinder016
+    100028: Cylinder017
+    100030: Cylinder018
+    100032: Cylinder019
+    100034: estandarte
+    100036: estandarte 1
+    100038: estandarte 2
+    100040: estandarte 3
+    100042: hojas
+    100044: hojas001
+    100046: hojas002
+    100048: raices
+    100050: tejado
+    400000: base
+    400002: //RootNode
+    400004: Cylinder002
+    400006: Cylinder006
+    400008: Cylinder007
+    400010: Cylinder008
+    400012: Cylinder009
+    400014: Cylinder010
+    400016: Cylinder011
+    400018: Cylinder012
+    400020: Cylinder013
+    400022: Cylinder014
+    400024: Cylinder015
+    400026: Cylinder016
+    400028: Cylinder017
+    400030: Cylinder018
+    400032: Cylinder019
+    400034: estandarte
+    400036: estandarte 1
+    400038: estandarte 2
+    400040: estandarte 3
+    400042: hojas
+    400044: hojas001
+    400046: hojas002
+    400048: raices
+    400050: tejado
+    2300000: base
+    2300002: Cylinder002
+    2300004: Cylinder006
+    2300006: Cylinder007
+    2300008: Cylinder008
+    2300010: Cylinder009
+    2300012: Cylinder010
+    2300014: Cylinder011
+    2300016: Cylinder012
+    2300018: Cylinder013
+    2300020: Cylinder014
+    2300022: Cylinder015
+    2300024: Cylinder016
+    2300026: Cylinder017
+    2300028: Cylinder018
+    2300030: Cylinder019
+    2300032: estandarte
+    2300034: estandarte 1
+    2300036: estandarte 2
+    2300038: estandarte 3
+    2300040: hojas
+    2300042: hojas001
+    2300044: hojas002
+    2300046: tejado
+    3300000: base
+    3300002: Cylinder002
+    3300004: Cylinder006
+    3300006: Cylinder007
+    3300008: Cylinder008
+    3300010: Cylinder009
+    3300012: Cylinder010
+    3300014: Cylinder011
+    3300016: Cylinder012
+    3300018: Cylinder013
+    3300020: Cylinder014
+    3300022: Cylinder015
+    3300024: Cylinder016
+    3300026: Cylinder017
+    3300028: Cylinder018
+    3300030: Cylinder019
+    3300032: estandarte
+    3300034: estandarte 1
+    3300036: estandarte 2
+    3300038: estandarte 3
+    3300040: hojas
+    3300042: hojas001
+    3300044: hojas002
+    3300046: tejado
+    4300000: base
+    4300002: tejado
+    4300004: Cylinder011
+    4300006: Cylinder018
+    4300008: Cylinder017
+    4300010: Cylinder016
+    4300012: Cylinder015
+    4300014: Cylinder014
+    4300016: Cylinder013
+    4300018: Cylinder012
+    4300020: Cylinder019
+    4300022: Cylinder010
+    4300024: Cylinder009
+    4300026: Cylinder008
+    4300028: Cylinder007
+    4300030: Cylinder006
+    4300032: Cylinder002
+    4300034: hojas002
+    4300036: hojas001
+    4300038: hojas
+    4300040: estandarte
+    4300042: estandarte
+    4300044: estandarte
+    4300046: estandarte
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

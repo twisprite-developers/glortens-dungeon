@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: c697cc66579343e4e8fb1587bd48ee34
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: B_cadera
+    100002: bd_antebrazo
+    100004: bd_brazo
+    100006: bd_dedos
+    100008: bd_dedos2
+    100010: bd_mano
+    100012: bd_muslo
+    100014: bd_pie
+    100016: bd_pierna
+    100018: bd_tobillo
+    100020: bi_antebrazo001
+    100022: bi_brazo001
+    100024: bi_dedos003
+    100026: bi_dedos004
+    100028: bi_mano001
+    100030: bi_muslo
+    100032: bi_pie
+    100034: bi_pierna
+    100036: bi_tobillo
+    100038: cabeza
+    100040: cuello
+    100042: palo
+    100044: pecho
+    100046: Point001
+    100048: point_arma_1
+    100050: point_arma_2
+    100052: //RootNode
+    100054: skeleton
+    100056: sword
+    100058: tronco
+    400000: B_cadera
+    400002: bd_antebrazo
+    400004: bd_brazo
+    400006: bd_dedos
+    400008: bd_dedos2
+    400010: bd_mano
+    400012: bd_muslo
+    400014: bd_pie
+    400016: bd_pierna
+    400018: bd_tobillo
+    400020: bi_antebrazo001
+    400022: bi_brazo001
+    400024: bi_dedos003
+    400026: bi_dedos004
+    400028: bi_mano001
+    400030: bi_muslo
+    400032: bi_pie
+    400034: bi_pierna
+    400036: bi_tobillo
+    400038: cabeza
+    400040: cuello
+    400042: palo
+    400044: pecho
+    400046: Point001
+    400048: point_arma_1
+    400050: point_arma_2
+    400052: //RootNode
+    400054: skeleton
+    400056: sword
+    400058: tronco
+    2300000: B_cadera
+    2300002: palo
+    2300004: sword
+    3300000: B_cadera
+    3300002: palo
+    3300004: sword
+    4300000: skeleton
+    4300002: palo
+    4300004: sword
+    4300006: B_cadera
+    7400000: Idle
+    7400002: Walk
+    7400004: Hit
+    7400006: Attack
+    7400008: Death
+    9500000: //RootNode
+    13700000: skeleton
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Point001
+        weight: 1
+      - path: Point001/B_cadera
+        weight: 1
+      - path: Point001/bd_muslo
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna/bd_tobillo
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna/bd_tobillo/bd_pie
+        weight: 1
+      - path: Point001/bi_muslo
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna/bi_tobillo
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna/bi_tobillo/bi_pie
+        weight: 1
+      - path: Point001/tronco
+        weight: 1
+      - path: Point001/tronco/pecho
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/bd_dedos
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/bd_dedos/bd_dedos2
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1/palo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1/sword
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003/bi_dedos004
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003/point_arma_2
+        weight: 1
+      - path: Point001/tronco/pecho/cuello
+        weight: 1
+      - path: Point001/tronco/pecho/cuello/cabeza
+        weight: 1
+      - path: skeleton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Point001
+        weight: 1
+      - path: Point001/B_cadera
+        weight: 1
+      - path: Point001/bd_muslo
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna/bd_tobillo
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna/bd_tobillo/bd_pie
+        weight: 1
+      - path: Point001/bi_muslo
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna/bi_tobillo
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna/bi_tobillo/bi_pie
+        weight: 1
+      - path: Point001/tronco
+        weight: 1
+      - path: Point001/tronco/pecho
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/bd_dedos
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/bd_dedos/bd_dedos2
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1/palo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1/sword
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003/bi_dedos004
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003/point_arma_2
+        weight: 1
+      - path: Point001/tronco/pecho/cuello
+        weight: 1
+      - path: Point001/tronco/pecho/cuello/cabeza
+        weight: 1
+      - path: skeleton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Hit
+      takeName: Take 001
+      firstFrame: 102
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Point001
+        weight: 1
+      - path: Point001/B_cadera
+        weight: 1
+      - path: Point001/bd_muslo
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna/bd_tobillo
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna/bd_tobillo/bd_pie
+        weight: 1
+      - path: Point001/bi_muslo
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna/bi_tobillo
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna/bi_tobillo/bi_pie
+        weight: 1
+      - path: Point001/tronco
+        weight: 1
+      - path: Point001/tronco/pecho
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/bd_dedos
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/bd_dedos/bd_dedos2
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1/palo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1/sword
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003/bi_dedos004
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003/point_arma_2
+        weight: 1
+      - path: Point001/tronco/pecho/cuello
+        weight: 1
+      - path: Point001/tronco/pecho/cuello/cabeza
+        weight: 1
+      - path: skeleton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 118
+      lastFrame: 134
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Point001
+        weight: 1
+      - path: Point001/B_cadera
+        weight: 1
+      - path: Point001/bd_muslo
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna/bd_tobillo
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna/bd_tobillo/bd_pie
+        weight: 1
+      - path: Point001/bi_muslo
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna/bi_tobillo
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna/bi_tobillo/bi_pie
+        weight: 1
+      - path: Point001/tronco
+        weight: 1
+      - path: Point001/tronco/pecho
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/bd_dedos
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/bd_dedos/bd_dedos2
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1/palo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1/sword
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003/bi_dedos004
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003/point_arma_2
+        weight: 1
+      - path: Point001/tronco/pecho/cuello
+        weight: 1
+      - path: Point001/tronco/pecho/cuello/cabeza
+        weight: 1
+      - path: skeleton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 138
+      lastFrame: 175
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Point001
+        weight: 1
+      - path: Point001/B_cadera
+        weight: 1
+      - path: Point001/bd_muslo
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna/bd_tobillo
+        weight: 1
+      - path: Point001/bd_muslo/bd_pierna/bd_tobillo/bd_pie
+        weight: 1
+      - path: Point001/bi_muslo
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna/bi_tobillo
+        weight: 1
+      - path: Point001/bi_muslo/bi_pierna/bi_tobillo/bi_pie
+        weight: 1
+      - path: Point001/tronco
+        weight: 1
+      - path: Point001/tronco/pecho
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/bd_dedos
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/bd_dedos/bd_dedos2
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1/palo
+        weight: 1
+      - path: Point001/tronco/pecho/bd_brazo/bd_antebrazo/bd_mano/point_arma_1/sword
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003/bi_dedos004
+        weight: 1
+      - path: Point001/tronco/pecho/bi_brazo001/bi_antebrazo001/bi_mano001/bi_dedos003/point_arma_2
+        weight: 1
+      - path: Point001/tronco/pecho/cuello
+        weight: 1
+      - path: Point001/tronco/pecho/cuello/cabeza
+        weight: 1
+      - path: skeleton
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00200000009
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

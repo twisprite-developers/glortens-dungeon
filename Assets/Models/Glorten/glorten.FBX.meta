@@ -1,0 +1,1718 @@
+fileFormatVersion: 2
+guid: 438fc40d41e7a9b43bc5ae00a34f8279
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: B_barba1
+    100002: B_barba2
+    100004: B_barriga
+    100006: B_cabeza
+    100008: B_pecho
+    100010: BD_antebrazo
+    100012: BD_brazo
+    100014: BD_dedo1
+    100016: BD_dedo2
+    100018: BD_dedo3
+    100020: BD_dedos1
+    100022: BD_dedos2
+    100024: BD_mano
+    100026: BD_muslo
+    100028: BD_pie
+    100030: BD_pierna
+    100032: BD_tobillo
+    100034: BI_antebrazo
+    100036: BI_brazo
+    100038: BI_dedo1
+    100040: BI_dedo2
+    100042: BI_dedo3
+    100044: BI_dedos1
+    100046: BI_dedos2
+    100048: BI_mano
+    100050: BI_muslo
+    100052: BI_pie
+    100054: BI_pierna
+    100056: BI_tobillo
+    100058: Box001
+    100060: casco
+    100062: cuerpo
+    100064: //RootNode
+    100066: hacha
+    100068: Omni001
+    100070: Omni002
+    100072: Omni003
+    100074: palo
+    100076: Point_arma_1
+    100078: point_cadera
+    100080: Point_casco
+    100082: Point_hombrera
+    400000: B_barba1
+    400002: B_barba2
+    400004: B_barriga
+    400006: B_cabeza
+    400008: B_pecho
+    400010: BD_antebrazo
+    400012: BD_brazo
+    400014: BD_dedo1
+    400016: BD_dedo2
+    400018: BD_dedo3
+    400020: BD_dedos1
+    400022: BD_dedos2
+    400024: BD_mano
+    400026: BD_muslo
+    400028: BD_pie
+    400030: BD_pierna
+    400032: BD_tobillo
+    400034: BI_antebrazo
+    400036: BI_brazo
+    400038: BI_dedo1
+    400040: BI_dedo2
+    400042: BI_dedo3
+    400044: BI_dedos1
+    400046: BI_dedos2
+    400048: BI_mano
+    400050: BI_muslo
+    400052: BI_pie
+    400054: BI_pierna
+    400056: BI_tobillo
+    400058: Box001
+    400060: casco
+    400062: cuerpo
+    400064: //RootNode
+    400066: hacha
+    400068: Omni001
+    400070: Omni002
+    400072: Omni003
+    400074: palo
+    400076: Point_arma_1
+    400078: point_cadera
+    400080: Point_casco
+    400082: Point_hombrera
+    2300000: B_barba1
+    2300002: B_barba2
+    2300004: B_barriga
+    2300006: B_cabeza
+    2300008: B_pecho
+    2300010: BD_antebrazo
+    2300012: BD_brazo
+    2300014: BD_dedo1
+    2300016: BD_dedo2
+    2300018: BD_dedo3
+    2300020: BD_dedos1
+    2300022: BD_dedos2
+    2300024: BD_mano
+    2300026: BD_muslo
+    2300028: BD_pie
+    2300030: BD_pierna
+    2300032: BD_tobillo
+    2300034: BI_antebrazo
+    2300036: BI_brazo
+    2300038: BI_dedo1
+    2300040: BI_dedo2
+    2300042: BI_dedo3
+    2300044: BI_dedos1
+    2300046: BI_dedos2
+    2300048: BI_mano
+    2300050: BI_muslo
+    2300052: BI_pie
+    2300054: BI_pierna
+    2300056: BI_tobillo
+    2300058: Box001
+    2300060: casco
+    2300062: hacha
+    2300064: palo
+    2300066: cuerpo
+    3300000: B_barba1
+    3300002: B_barba2
+    3300004: B_barriga
+    3300006: B_cabeza
+    3300008: B_pecho
+    3300010: BD_antebrazo
+    3300012: BD_brazo
+    3300014: BD_dedo1
+    3300016: BD_dedo2
+    3300018: BD_dedo3
+    3300020: BD_dedos1
+    3300022: BD_dedos2
+    3300024: BD_mano
+    3300026: BD_muslo
+    3300028: BD_pie
+    3300030: BD_pierna
+    3300032: BD_tobillo
+    3300034: BI_antebrazo
+    3300036: BI_brazo
+    3300038: BI_dedo1
+    3300040: BI_dedo2
+    3300042: BI_dedo3
+    3300044: BI_dedos1
+    3300046: BI_dedos2
+    3300048: BI_mano
+    3300050: BI_muslo
+    3300052: BI_pie
+    3300054: BI_pierna
+    3300056: BI_tobillo
+    3300058: Box001
+    3300060: casco
+    3300062: hacha
+    3300064: palo
+    3300066: cuerpo
+    4300000: cuerpo
+    4300002: BD_muslo
+    4300004: BD_pierna
+    4300006: BD_tobillo
+    4300008: BD_pie
+    4300010: B_barriga
+    4300012: B_pecho
+    4300014: B_cabeza
+    4300016: casco
+    4300018: B_barba1
+    4300020: B_barba2
+    4300022: BD_brazo
+    4300024: BD_antebrazo
+    4300026: BD_mano
+    4300028: BD_dedo1
+    4300030: BD_dedo2
+    4300032: BD_dedos1
+    4300034: BD_dedos2
+    4300036: BD_dedo3
+    4300038: hacha
+    4300040: palo
+    4300042: BI_brazo
+    4300044: BI_antebrazo
+    4300046: BI_mano
+    4300048: BI_dedo1
+    4300050: BI_dedo2
+    4300052: BI_dedos1
+    4300054: BI_dedos2
+    4300056: BI_dedo3
+    4300058: Box001
+    4300060: BI_muslo
+    4300062: BI_pierna
+    4300064: BI_tobillo
+    4300066: BI_pie
+    7400000: Idle
+    7400002: Walk
+    7400004: Attack1
+    7400006: Attack2
+    7400008: Hit
+    7400010: Death
+    7400012: Appear
+    7400014: Idle_Bossfight
+    7400016: Attack1_Bossfight
+    7400018: Attack2_Bossfight
+    7400020: Attack3_Bossfight
+    7400022: Heal_Bossfight
+    7400024: Victory
+    7400026: Ready_for_combat
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: cuerpo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 38
+      lastFrame: 74
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack1
+      takeName: Take 001
+      firstFrame: 78
+      lastFrame: 91
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack2
+      takeName: Take 001
+      firstFrame: 93
+      lastFrame: 104
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Hit
+      takeName: Take 001
+      firstFrame: 106
+      lastFrame: 135
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 138
+      lastFrame: 162
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Appear
+      takeName: Take 001
+      firstFrame: 164
+      lastFrame: 321
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle_Bossfight
+      takeName: Take 001
+      firstFrame: 324
+      lastFrame: 374
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack1_Bossfight
+      takeName: Take 001
+      firstFrame: 376
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack2_Bossfight
+      takeName: Take 001
+      firstFrame: 411
+      lastFrame: 641
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack3_Bossfight
+      takeName: Take 001
+      firstFrame: 643
+      lastFrame: 826
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Heal_Bossfight
+      takeName: Take 001
+      firstFrame: 828
+      lastFrame: 966
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Victory
+      takeName: Take 001
+      firstFrame: 411
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Ready_for_combat
+      takeName: Take 001
+      firstFrame: 643
+      lastFrame: 730
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cuerpo
+        weight: 1
+      - path: point_cadera
+        weight: 1
+      - path: point_cadera/B_barriga
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/B_barba1/B_barba2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/B_cabeza/Point_casco/casco
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo1/BD_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/BD_dedos1/BD_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/hacha
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BD_brazo/BD_antebrazo/BD_mano/Point_arma_1/palo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo1/BI_dedo2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedo3
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/BI_antebrazo/BI_mano/BI_dedos1/BI_dedos2
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera
+        weight: 1
+      - path: point_cadera/B_barriga/B_pecho/BI_brazo/Point_hombrera/Box001
+        weight: 1
+      - path: point_cadera/BD_muslo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo
+        weight: 1
+      - path: point_cadera/BD_muslo/BD_pierna/BD_tobillo/BD_pie
+        weight: 1
+      - path: point_cadera/BI_muslo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo
+        weight: 1
+      - path: point_cadera/BI_muslo/BI_pierna/BI_tobillo/BI_pie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0799999982
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
